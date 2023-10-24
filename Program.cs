@@ -75,7 +75,7 @@ namespace ResimSira
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            string url = "https://linktr.ee/leaddy";
+            string url = "https://heylink.me/leaddy";
             Process.Start(url);
         }
     }
